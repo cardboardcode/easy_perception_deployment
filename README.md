@@ -37,7 +37,7 @@ rosdep install --from-paths src --ignore-src --rosdistro=humble -y
 colcon build --symlink-install
 ```
 
-## **Run** 
+## **Run** :arrow_forward:
 
 ```bash
 cd $HOME/epd_ws
