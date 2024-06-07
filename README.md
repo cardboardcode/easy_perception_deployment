@@ -4,6 +4,9 @@
 
 Rather than provide a general tool kit for ROS 2 ready vision-processing, **epd_core** focuses on higher **accuracy** and **performance** of object detection and pose estimation. 
 
+> [!NOTE]  
+> To be dockerised for ease-of-use.
+
 ## **Build** :hammer:
 
 ```bash
